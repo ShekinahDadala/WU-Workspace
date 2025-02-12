@@ -38,4 +38,6 @@ namespace: isd (green) - Prometheus and Grafana is configured in same ns i.e isd
 
 TO VIEW GIT REPOS: cd swapnil in PROD ENV
 
+in green , sandbox we have configured, in monitoing also we do have grafana installed but i dont have dns name
+
 LC0c@TF.5.og
