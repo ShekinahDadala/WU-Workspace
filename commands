@@ -1,0 +1,1 @@
+kubectl exec -it opsmx-prometheus-server-75bf7fdf59-88zgc -c prometheus-server -n targetns -- df -h /data
